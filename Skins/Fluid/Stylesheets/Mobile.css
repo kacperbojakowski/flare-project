@@ -12,10 +12,10 @@
 
 	.title-bar-layout a.logo
 	{
-		width: 86px;
-		height: 100px;
-		background: transparent url('Images/herb-mobile.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/herb-mobile.png') no-repeat center center;
+		width: 143px;
+		height: 30px;
+		background: transparent url('Images/herb-mobile_5.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/herb-mobile_5.png') no-repeat center center;
 	}
 
 	.search-bar .search-submit
@@ -148,13 +148,13 @@
 
 	.title-bar-layout .logo-wrapper
 	{
-		min-height: 100px;
+		min-height: 40px;
 		flex-basis: auto;
 	}
 
 	.menu-icon-container
 	{
-		min-height: 100px;
+		min-height: 40px;
 	}
 
 	.off-canvas-wrapper-inner .main-section > .outer-row
